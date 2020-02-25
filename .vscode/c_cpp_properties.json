@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Luqmaan\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\**",
+                "C:\\Users\\Luqmaan\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\arduino-SG33\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\arduino-SN01\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\arduino-SI01\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\arduino-SW02\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\arduino-SW03\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\Adafruit_MPL3115A2_Library\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\arduino-provision\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\Statistic\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\PubSubClient\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\XK92-ISS\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\ArduinoJson\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\arduino-core\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\Adafruit_Sensor\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\NTPtimeESP\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

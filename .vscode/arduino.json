@@ -1,0 +1,7 @@
+{
+    "sketch": "examples\\DATA_LOGGER\\DATA_LOGGER.ino",
+    "port": "COM5",
+    "output": "../build",
+    "board": "esp32:esp32:cw02",
+    "configuration": "FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none"
+}
