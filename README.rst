@@ -61,4 +61,3 @@ Copyright (c) 2015 Circuitar
 All rights reserved.
 
 This software is released under an MIT license. See the attached LICENSE file for details.
-----
