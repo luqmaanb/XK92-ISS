@@ -7,7 +7,7 @@ if read_the_docs_build:
     subprocess.call('doxygen', shell=True)
 extensions = ['breathe']
 breathe_projects = { 'XK92-ISS': 'xml' }
-breathe_default_project = "XK92-ISS"
+breathe_default_project = "src"
 templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'
