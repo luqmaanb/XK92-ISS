@@ -4,7 +4,7 @@
    :end-before: ----
 Class Documentation
 ===================
-.. doxygenclass:: XK92-ISS
+.. doxygenclass:: XinaBox_xk92
    :project: XK92-ISS
    :members:
 ----
